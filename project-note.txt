@@ -1,0 +1,28 @@
+bootstrap version: 5.0.0 beta 2
+
+google fonts
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
+
+colors
+ HEX		Name			rgb
+#2B2D42  Space Cadet  	43, 45, 66
+#8D99AE  Manatee  		141, 153, 174
+#EDF2F4  Alice Blue  	237, 242, 244
+#EF233C  Imperial Red  	239, 35, 60
+#D90429  Amaranth Red  	217, 4, 41
+
+	Moon Yellow:		#f4c613
+	Grey/Black Russian: #212226
+	White Smoke: 		#f4f4f4
+	White: 				#fff
+	Black: 				#000
+
+Plugin:
+	Owl Carousel
+	Waypoints
+	jQuery Responsive Tabs
+	isotope
+	magnific popup
+	counter up
+
